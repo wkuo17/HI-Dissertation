@@ -1,0 +1,12 @@
+(Pre-installation on Mac OS)
+
+(1) install firefox browser
+(2) install brew (https://docs.brew.sh/Installation)
+(3) brew doctor
+(4) brew search python
+(5) brew install python3
+(6) pip3 install selenium
+(7) pip3 install beautifulsoup4
+(8) pip3 install selenium
+(9) brew install gecko driver
+
